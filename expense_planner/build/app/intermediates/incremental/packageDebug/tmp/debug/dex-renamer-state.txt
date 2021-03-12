@@ -1,0 +1,4 @@
+#Tue Mar 02 13:15:38 IST 2021
+base.0=/Users/macadmin/AndroidStudioProjects/expense_planner/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
